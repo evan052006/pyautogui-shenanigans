@@ -61,4 +61,4 @@ dependencies:
   - xorg-libxt=1.3.1=hb9d3cd8_0
   - xsel=1.2.1=hb9d3cd8_6
   - zstd=1.5.7=hb8e6e7a_2
-prefix: /opt/miniconda3/envs/pygui
+prefix: /home/vane/conda/envs/pygui
